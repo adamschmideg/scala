@@ -6,3 +6,5 @@ tmp
 target/
 bin/configlet
 bin/configlet.exe
+project/
+.bsp/
